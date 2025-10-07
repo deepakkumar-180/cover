@@ -64,7 +64,7 @@ book.html
             </div>
             <hr class="bottom-hr">
             <div class="names">
-                <div class="author"><b>Thangapazham<br>25017581</b></div>
+                <div class="author"><b>(s.deepakkumar)<br>25016457</b></div>
                 <div class="sec-name">SEC</div>
             </div>
         </div>
